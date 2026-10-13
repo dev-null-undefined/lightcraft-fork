@@ -1,5 +1,11 @@
 # What's new in LightCraft
 
+## 2026-10-25
+
+### Stepping on from a zoomed 64 MP photo
+- Moving to the next photo after zooming into a high-resolution raw no longer decodes the previews of the photo you
+  move to and of its neighbours again. The kept original of the photo you left now goes first when memory is short.
+
 ## 2026-10-24
 
 ### Relative-date filters and smart albums follow the clock
